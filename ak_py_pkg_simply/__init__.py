@@ -1,1 +1,1 @@
-from ak_py_pkg_simply.simply import Simply 
+from AK_PY_PKG_SIMPLY.simply import Simply 
