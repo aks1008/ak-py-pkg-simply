@@ -9,7 +9,7 @@ setup(
   author_email = 'lungareakshay@gmial.com',      # Type in your E-Mail
   url = 'https://github.com/lungareakshay/ak-py-pkg-simply.git',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/lungareakshay/ak-py-pkg-simply/archive/0.1.tar.gz',    # I explain this later on
-  keywords = ['SIMPLFY TEXT'],   # Keywords that define your package best
+  keywords = ['SIMPLFY TEXT','AKSHAY MARATHI', 'MURAKAMI'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
         #   'validators',
         #   'beautifulsoup4',
