@@ -1,4 +1,4 @@
-# Create Package ak-py-pkg-simply
+# Create Package ak_py_pkg_simply
 # Python Package Practice
 
 Make your code publish-ready
