@@ -1,1 +1,1 @@
-from AK_PY_PKG_SIMPLY.simply import Simply 
+from simply import Simplfy 
