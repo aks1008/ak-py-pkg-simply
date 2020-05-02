@@ -1,7 +1,7 @@
-if __name__ == "__main__":
+class Simplfy():
 
-    class Simply():
-
-        def simplyText(self):
-            print('Nice')
-            return 'Simply Text Return'
+    def simplfyText(self):
+        '''
+        Returns simply text
+        '''
+        return 'Simply Text Return'
